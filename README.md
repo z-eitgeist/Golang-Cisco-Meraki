@@ -1,6 +1,6 @@
 # Golang---Cisco-Meraki
 Cisco Meraki Golang Script
-This is a simple Golang script for interacting with the Cisco Meraki API. The script demonstrates how to use the Meraki API to get information about your Meraki network, devices, clients, and other objects.
+This is a simple Golang script for interacting with the Cisco Meraki API. The script demonstrates how to use the Meraki API to get information about your Meraki organizations, network and devices.
 
 # Prerequisites
 
