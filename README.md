@@ -13,28 +13,24 @@ Before you can run this script, you will need:
 
 # Installation
 
+1. Clone this repository to your local machine.
 
-Clone this repository to your local machine.
+2. Open a terminal window and navigate to the directory where you cloned the repository.
 
-Open a terminal window and navigate to the directory where you cloned the repository.
-
-Review and modify the code as needed, enter your API Key
+3. Review and modify the code as needed, enter your API Key
 
 # Usage
-
 
 To run the script, open a terminal window and navigate to the directory where you cloned the repository. Then run the following command:
 
     go run main.go
 
-The script will connect to the Meraki API and retrieve information about your network. You can modify the script to retrieve information about other Meraki objects by updating the API endpoints and parameters.
+The script will connect to the Meraki API and retrieve information about your organizations and networks. 
 
 # License
-
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Contributing
-
 
 If you would like to contribute to this project, please submit a pull request with your changes.
